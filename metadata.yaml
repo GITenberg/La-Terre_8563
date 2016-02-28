@@ -1,0 +1,45 @@
+_repo: La-Terre_8563
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: "La Terre (The Earth) is a novel by Émile Zola, published in 1887. It\
+  \ is the fifteenth novel in Zola's Rougon-Macquart series. The action takes place\
+  \ in a rural community in the Beauce, an area in central France southwest of Paris.\
+  \ The novel is connected to others in the series by the protagonist, Jean Macquart,\
+  \ whose childhood in the south of France was recounted in La Fortune des Rougon,\
+  \ and who goes on to feature prominently in the later novel La Débâcle.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- FR Littérature
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8563'
+  wikidata: Q1755607
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: La Terre
+url: http://www.gutenberg.org/ebooks/8563
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Terre_(Zola)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%B1%D8%B6_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9_%D9%84%D8%A5%D9%85%D9%8A%D9%84_%D8%B2%D9%88%D9%84%D8%A7)
+- https://fa.wikipedia.org/wiki/%D8%B2%D9%85%DB%8C%D9%86_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://de.wikipedia.org/wiki/Die_Erde_(Zola)
+- https://pl.wikipedia.org/wiki/Ziemia_(powie%C5%9B%C4%87)
+- https://en.wikipedia.org/wiki/La_Terre
+- https://it.wikipedia.org/wiki/La_terra_(romanzo)
+- https://fr.wikisource.org/wiki/La_Terre
