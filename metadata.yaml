@@ -38,6 +38,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French literature'
 - !lcc 'PQ'
+- GITenberg
 title: La Terre
 url: http://www.gutenberg.org/ebooks/8563
 wikipedia:
